@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VidaControls", "VidaControls\VidaControls.csproj", "{053C44EA-E87E-4300-870B-46AFB5706243}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VidaControls.DTOs", "VidaControls.DTOs\VidaControls.DTOs.csproj", "{8E67DB65-1BAB-4336-A598-5A460E0C231C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VidaControls.UnitTests", "VidaControls.UnitTests\VidaControls.UnitTests.csproj", "{A2685927-2B7E-4D24-9F40-BC7A4273181A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{053C44EA-E87E-4300-870B-46AFB5706243}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{053C44EA-E87E-4300-870B-46AFB5706243}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{053C44EA-E87E-4300-870B-46AFB5706243}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{053C44EA-E87E-4300-870B-46AFB5706243}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E67DB65-1BAB-4336-A598-5A460E0C231C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E67DB65-1BAB-4336-A598-5A460E0C231C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E67DB65-1BAB-4336-A598-5A460E0C231C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E67DB65-1BAB-4336-A598-5A460E0C231C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2685927-2B7E-4D24-9F40-BC7A4273181A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2685927-2B7E-4D24-9F40-BC7A4273181A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2685927-2B7E-4D24-9F40-BC7A4273181A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2685927-2B7E-4D24-9F40-BC7A4273181A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

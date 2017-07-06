@@ -1,0 +1,10 @@
+C:\Users\msaurondon\documents\visual studio 2017\Projects\VidaBudget.VidaControls\VidaControls\bin\Debug\VidaControls.dll
+C:\Users\msaurondon\documents\visual studio 2017\Projects\VidaBudget.VidaControls\VidaControls\bin\Debug\VidaControls.pdb
+C:\Users\msaurondon\documents\visual studio 2017\Projects\VidaBudget.VidaControls\VidaControls\bin\Debug\VidaControls.DTOs.dll
+C:\Users\msaurondon\documents\visual studio 2017\Projects\VidaBudget.VidaControls\VidaControls\bin\Debug\VidaControls.DTOs.pdb
+C:\Users\msaurondon\documents\visual studio 2017\Projects\VidaBudget.VidaControls\VidaControls\obj\Debug\VidaControls.csprojResolveAssemblyReference.cache
+C:\Users\msaurondon\documents\visual studio 2017\Projects\VidaBudget.VidaControls\VidaControls\obj\Debug\VidaControls.PayToEntry.resources
+C:\Users\msaurondon\documents\visual studio 2017\Projects\VidaBudget.VidaControls\VidaControls\obj\Debug\VidaControls.csproj.GenerateResource.Cache
+C:\Users\msaurondon\documents\visual studio 2017\Projects\VidaBudget.VidaControls\VidaControls\obj\Debug\VidaControls.dll
+C:\Users\msaurondon\documents\visual studio 2017\Projects\VidaBudget.VidaControls\VidaControls\obj\Debug\VidaControls.pdb
+C:\Users\msaurondon\Documents\Visual Studio 2017\Projects\VidaBudget.VidaControls\VidaControls\obj\Debug\VidaControls.AccountRegister.resources

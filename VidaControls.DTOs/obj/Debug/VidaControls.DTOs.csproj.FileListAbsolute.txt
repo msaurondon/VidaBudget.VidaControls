@@ -1,0 +1,5 @@
+C:\Users\msaurondon\documents\visual studio 2017\Projects\VidaBudget.VidaControls\VidaControls.DTOs\bin\Debug\VidaControls.DTOs.dll
+C:\Users\msaurondon\documents\visual studio 2017\Projects\VidaBudget.VidaControls\VidaControls.DTOs\bin\Debug\VidaControls.DTOs.pdb
+C:\Users\msaurondon\documents\visual studio 2017\Projects\VidaBudget.VidaControls\VidaControls.DTOs\obj\Debug\VidaControls.DTOs.csprojResolveAssemblyReference.cache
+C:\Users\msaurondon\documents\visual studio 2017\Projects\VidaBudget.VidaControls\VidaControls.DTOs\obj\Debug\VidaControls.DTOs.dll
+C:\Users\msaurondon\documents\visual studio 2017\Projects\VidaBudget.VidaControls\VidaControls.DTOs\obj\Debug\VidaControls.DTOs.pdb
